@@ -1,0 +1,78 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+html {
+    height: 100vh;
+    margin: 0;
+    position: fixed;
+}
+
+header {
+    height: 100vh;
+    margin: 0;
+    position: fixed;
+
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    position: fixed;
+    width: 100vw;
+}
+
+
+#top {
+    background-color: #f2efe4;
+    color: #2f2f2f;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+}
+
+.harucon {
+    width: 70px;
+    padding-top: 20vh;
+    -webkit-filter: drop-shadow(1px 2px 2px rgba(0,0,0,0.5));
+}
+
+.name {
+    font-weight: 900;
+    padding-top: 1vh;
+}
+
+.msg {
+    font-weight: 800;
+    font-style: italic;
+    padding-top: 0.5vh;
+}
+.icons {
+    padding-left: 0.5vh;
+    padding-right: 0.5vh;
+}
+.icons :hover {
+    color: #2f2f2f;
+}
+
+.icon {
+    padding: 10px;
+    color: #2f2f2f;
+}
+
+.label {
+    padding-top: 3vh;
+    font-weight: 700;
+}
+
+.cr {
+    font-weight: 300;
+    font-size: 10px;
+}
+
+.harumasa {
+    padding-top: 2vh;
+    width: 200px;
+    height: 200px;
+    -webkit-filter: drop-shadow(1px 2px 2px rgba(0,0,0,0.5));
+}
